@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ni7wg7k13-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ni7wg7k13-go-gitops
